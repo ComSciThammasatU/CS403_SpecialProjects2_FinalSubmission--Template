@@ -1,4 +1,4 @@
-**Note: Students must update this README.md file to be an installation manual or a README file for their own CS403 projects.**
+**++Note++: Students must update this README.md file to be an installation manual or a README file for their own CS403 projects.**
 
 **รหัสโครงงาน:** ระบุรหัสโครงงานที่นี่ เช่น 66-2_01_ssr-s2
 
@@ -8,7 +8,7 @@
 
 **อาจารย์ที่ปรึกษาโครงงาน:** ระบุชื่ออาจารย์ที่ปรึกษาโครงงานที่นี่ 
 
-**ผู้จัดทำโครงงาน:** (โปรดเขียนตามฟอร์แมตในตัวอย่างด้านล่าง)
+**ผู้จัดทำโครงงาน:** (โปรดเขียนข้อมูลผู้จัดทำโครงงานตามฟอร์แมตดังแสดงในตัวอย่างด้านล่าง)
 1. นายธรรม รักการดี 6409610010  tham.rak@dome.tu.ac.th
 2. <ถ้ามี>
    
