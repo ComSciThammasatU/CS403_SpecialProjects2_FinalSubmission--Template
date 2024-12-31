@@ -1,4 +1,4 @@
-**++Note++: Students must update this README.md file to be an installation manual or a README file for their own CS403 projects.**
+**<u>Note</u>: Students must update this README.md file to be an installation manual or a README file for their own CS403 projects.**
 
 **รหัสโครงงาน:** ระบุรหัสโครงงานที่นี่ เช่น 66-2_01_ssr-s2
 
